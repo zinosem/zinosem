@@ -18,8 +18,6 @@ Passionate Software Engineer specializing in high-performance **Backend Architec
 - 🔭 **Currently Building**: Scalable enterprise ERPs and FinTech payment integrations.
 - 💡 **Core Expertise**: Distributed Backend Systems, Database Optimization, Automation, and PWA/Mobile Apps.
 - 💬 **Ask me about**: Python, FastAPI, Docker, PostgreSQL, React, Telegram Bot Architecture & Payment Gateways.
-- 📫 **Contact**: [GitHub](https://github.com/zinosem)
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -36,7 +34,7 @@ Passionate Software Engineer specializing in high-performance **Backend Architec
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br/>
   <!-- Databases & DevOps -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -45,17 +43,19 @@ Passionate Software Engineer specializing in high-performance **Backend Architec
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🌟 Featured Projects (Showcase)
+## 🌟 Featured Projects
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 💳 **[Sauve Platform](https://github.com/zinosem/sauve)** | `FastAPI`, `Docker`, `PostgreSQL`, `React`, `SATIM/BaridiWeb` | Complete SME ERP & payment gateway microservices architecture with HMAC security & fiscal exports. |
-| 🏭 **[Tannery Industrial ERP](https://github.com/zinosem/tannerie-management-system)** | `Python`, `SQLite`, `CustomTkinter`, `PyInstaller` | Comprehensive chemical dosage engine, stock analytics, yield tracking & standalone Windows desktop application. |
+| 💳 **[Sauve Platform](https://github.com/zinosem/sauve)** | `FastAPI`, `Docker`, `PostgreSQL`, `Redis`, `Nginx`, `React`, `TypeScript`, `SATIM/BaridiWeb` | Complete SME ERP & payment gateway microservices architecture with HMAC security & fiscal exports. |
+| 🏭 **[Tannery Industrial ERP](https://github.com/zinosem/tannerie-management-system)** | `Python`, `SQLite`, `Tkinter`, `openpyxl`, `PyInstaller` | Comprehensive chemical dosage engine, stock analytics, yield tracking & standalone Windows desktop application. |
 | 📱 **[Tinder DZ PWA](https://github.com/zinosem/tinder-dz)** | `JavaScript`, `Capacitor`, `PWA`, `Service Worker` | Mobile-first matchmaking progressive web app with offline capabilities and native mobile wrappers. |
+| 📞 **[VoIP & SIP Portfolio](https://github.com/zinosem/voip-sip-portfolio)** | `SIP`, `Wireshark`, `FreePBX`, `Linux` | Technical support portfolio: SIP call-flow analysis from PCAP captures, FreePBX setup & Linux network diagnostics. |
 | 🛂 **Visa Slot Automator** 🔒 *(private)* | `Python`, `Playwright`, `PowerShell` | Intelligent appointment slot monitor with session persistence, exponential backoff & desktop alerts. |
 
 ---
