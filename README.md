@@ -1,4 +1,4 @@
- # 👨‍💻 Zine Ddine SEMMACHE (zinosem)
+# 👨‍💻 Zine Ddine SEMMACHE (zinosem)
 ### Fullstack & Backend Software Engineer | Python • FastAPI • React • Microservices
 
 <p align="left">
@@ -18,7 +18,7 @@ Passionate Software Engineer specializing in high-performance **Backend Architec
 - 🔭 **Currently Building**: Scalable enterprise ERPs and FinTech payment integrations.
 - 💡 **Core Expertise**: Distributed Backend Systems, Database Optimization, Automation, and PWA/Mobile Apps.
 - 💬 **Ask me about**: Python, FastAPI, Docker, PostgreSQL, React, Telegram Bot Architecture & Payment Gateways.
-- 📫 **Contact**: [GitHub Profile](https://github.com/zinosem) • [LinkedIn](https://www.linkedin.com/) • [Email](mailto:186286096+zinosem@users.noreply.github.com)
+- 📫 **Contact**: [GitHub](https://github.com/zinosem)
 
 ---
 
@@ -55,17 +55,16 @@ Passionate Software Engineer specializing in high-performance **Backend Architec
 | :--- | :--- | :--- |
 | 💳 **[Sauve Platform](https://github.com/zinosem/sauve)** | `FastAPI`, `Docker`, `PostgreSQL`, `React`, `SATIM/BaridiWeb` | Complete SME ERP & payment gateway microservices architecture with HMAC security & fiscal exports. |
 | 🏭 **[Tannery Industrial ERP](https://github.com/zinosem/tannerie-management-system)** | `Python`, `SQLite`, `CustomTkinter`, `PyInstaller` | Comprehensive chemical dosage engine, stock analytics, yield tracking & standalone Windows desktop application. |
-| 🤖 **[Telegram Claims & Invoice Bot](https://github.com/zinosem/telegram-claims-bot)** | `Python`, `FastAPI`, `SQLite`, `Render` | End-to-end automated customer claims handling, dynamic PDF/HTML invoice generation & automated routing. |
 | 📱 **[Tinder DZ PWA](https://github.com/zinosem/tinder-dz)** | `JavaScript`, `Capacitor`, `PWA`, `Service Worker` | Mobile-first matchmaking progressive web app with offline capabilities and native mobile wrappers. |
-| 🛂 **[Visa Slot Automator](https://github.com/zinosem/us-visa-slot-monitor)** | `Python`, `Playwright`, `PowerShell` | Intelligent appointment slot monitor with session persistence, exponential backoff & desktop alerts. |
+| 🛂 **Visa Slot Automator** 🔒 *(private)* | `Python`, `Playwright`, `PowerShell` | Intelligent appointment slot monitor with session persistence, exponential backoff & desktop alerts. |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinosem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinosem&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinosem&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinosem&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
